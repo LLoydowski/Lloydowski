@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RedM Server**
 
-- 🌱 I’m currently learning **React, C++, Unreal Engine**
+- 🌱 I’m currently learning **React, C++, Unreal Engine, RedM scripting**
 
 - 👨‍💻 All of my projects are available at -not yet-
 
