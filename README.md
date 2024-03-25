@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, C++, Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [-not yet-](-not yet-)
+- 👨‍💻 All of my projects are available at -not yet-
 
 - 📫 How to reach me **janekbaszczynski@gmail.com**
 
