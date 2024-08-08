@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lloydowskki</h1>
 <h3 align="center">A programming student</h3>
 
-- 🔭 I’m currently working on **RedM Server**
+- 🔭 I’m currently working on **Random stuff**
 
-- 🌱 I’m currently learning **React, C++, Unreal Engine, RedM scripting**
-
-- 👨‍💻 All of my projects are available at -not yet-
+- 🌱 I’m currently learning **React, C++, Unreal Engine**
 
 - 📫 How to reach me **janekbaszczynski@gmail.com**
 
