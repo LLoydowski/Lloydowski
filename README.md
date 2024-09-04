@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Random stuff**
 
-- 🌱 I’m currently learning **React, C++, Unreal Engine**
+- 🌱 I’m currently learning **C++*
 
 - 📫 How to reach me **janekbaszczynski@gmail.com**
 
